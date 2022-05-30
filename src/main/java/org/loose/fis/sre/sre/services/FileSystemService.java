@@ -1,4 +1,4 @@
-package org.loose.fis.registration.sre.services;
+package org.loose.fis.sre.sre.services;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

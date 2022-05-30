@@ -1,15 +1,15 @@
-package org.loose.fis.sre.controllers;
+package org.loose.fis.sre.sre.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.text.Text;
-import org.loose.fis.sre.Main;
-import org.loose.fis.sre.exceptions.UsernameAlreadyExistsException;
+import org.loose.fis.sre.sre.Main;
+import org.loose.fis.sre.sre.exceptions.UsernameAlreadyExistsException;
 import org.loose.fis.sre.services.UserNameTransporterService;
 import org.loose.fis.sre.services.UserRoleTransporterService;
-import org.loose.fis.sre.services.UserService;
+import org.loose.fis.sre.sre.services.UserService;
 
 import java.io.IOException;
 

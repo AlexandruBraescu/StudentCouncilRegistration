@@ -1,11 +1,11 @@
-package org.loose.fis.registration.sre;
+package org.loose.fis.sre.sre;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
-import org.loose.fis.registration.sre.services.UserService;
+import org.loose.fis.sre.sre.services.UserService;
 
 public class Main extends Application {
 

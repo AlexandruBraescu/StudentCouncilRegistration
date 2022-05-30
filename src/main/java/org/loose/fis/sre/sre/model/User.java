@@ -1,4 +1,4 @@
-package org.loose.fis.registration.sre.model;
+package org.loose.fis.sre.sre.model;
 
 public class User {
 
